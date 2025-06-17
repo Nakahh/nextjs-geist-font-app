@@ -1,0 +1,4 @@
+{"body":{},"ip":"::ffff:127.0.0.1","level":"info","message":"Requisição recebida","method":"GET","params":{},"query":{},"requestId":"xnpdbe","service":"siqueira-campos-imoveis","timestamp":"2025-06-17 02:37:03","url":"/test"}
+{"body":{},"duration":10,"ip":"::ffff:127.0.0.1","level":"info","message":"Requisição completada","method":"GET","params":{},"query":{},"requestId":"xnpdbe","service":"siqueira-campos-imoveis","statusCode":200,"timestamp":"2025-06-17 02:37:03","url":"/test"}
+{"body":{},"ip":"::ffff:127.0.0.1","level":"info","message":"Requisição recebida","method":"GET","params":{},"query":{},"requestId":"ysc9tf","service":"siqueira-campos-imoveis","timestamp":"2025-06-17 02:37:03","url":"/error"}
+{"body":{},"duration":2,"ip":"::ffff:127.0.0.1","level":"error","message":"Erro interno do servidor","method":"GET","params":{},"query":{},"requestId":"ysc9tf","service":"siqueira-campos-imoveis","statusCode":500,"timestamp":"2025-06-17 02:37:03","url":"/error"}
